@@ -15,7 +15,6 @@ Aplicación web desarrollada con PHP y MySQL que permite gestionar registros med
 - Listado dinámico
 
 ## 📸 Capturas
-(agregá imágenes acá)
 
 ## ▶️ Cómo ejecutar
 1. Clonar repositorio
